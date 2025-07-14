@@ -6,9 +6,17 @@
 
 ## 📱 Screenshot
 
-<img src="https://raw.githubusercontent.com/Sakthi-Developer/Joksy/master/screen_1.png" width="300"/>
-<img src="https://raw.githubusercontent.com/Sakthi-Developer/Joksy/master/screen_2.png" width="300"/>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Sakthi-Developer/Joksy/master/screen_1.png" width="300"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Sakthi-Developer/Joksy/master/screen_2.png" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

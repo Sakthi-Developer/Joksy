@@ -6,8 +6,8 @@
 
 ## 📱 Screenshot
 
-![Joke](https://github.com/Sakthi-Developer/Joksy/blob/master/screen_1.png) 
-![Joke](https://github.com/Sakthi-Developer/Joksy/blob/master/screen_2.png)
+<img src="https://raw.githubusercontent.com/Sakthi-Developer/Joksy/master/screen_1.png" width="300"/>
+<img src="https://raw.githubusercontent.com/Sakthi-Developer/Joksy/master/screen_2.png" width="300"/>
 
 
 ---
